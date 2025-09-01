@@ -4,7 +4,7 @@
 #Assignment:
 
 def main():
-  print("First Program")
+  
   #Say hello
   
   #Ask for the user's name
